@@ -2,7 +2,7 @@
 
 In this repository we look at the creation of the citation network for UK law.
 <br>
-### Notebooks
+## Notebooks
 Within the notebook directory we have:
 * citation_scrape
 * citation_network
@@ -16,7 +16,7 @@ The **citation_network** notebook looks to visualise the network created in _cit
 network for certain relations. It also allows for exploration from "root" document(s) refined through specific citation 
 relations as well as distance from the "root".
 <br>
-### Data
+## Data
 Within the data directory we have:
 * citation_network.csv
 * label_colours.json
