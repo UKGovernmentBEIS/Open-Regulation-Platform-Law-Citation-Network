@@ -1,8 +1,4 @@
 requests
-os
-csv
 pandas
 bs4
-re
-json
 pyvis
