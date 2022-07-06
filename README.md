@@ -34,3 +34,5 @@ surrounding a citation in a document to determine the type of relation for the c
 
 The **_legislation.csv_** file contains a list of all the legislation used in _**citation_scrape**_. It contains the type of 
 act, the year and the number of act.
+## Requirements
+requirements.txt details all used python libaries from across the notebooks
