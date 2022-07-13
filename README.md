@@ -1,9 +1,7 @@
 # UK Law Citation Network
 
 In this repository we look at the creation of the citation network for UK law.
-
 <br>
-
 ## Notebooks
 Within the notebook directory we have:
 * **_citation_scrape_**
